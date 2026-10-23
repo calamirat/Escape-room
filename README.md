@@ -16,7 +16,7 @@ Projet conçu en équipe avec : Éric,Alexis,Nicholas
 - Les besoins humains : Guide. indices 
 - Le plan des salles (croquis) :
 
-![Plan des salles](plan-de-salle.drawio.png)
+![Plan des salles](Plan-de-salle.drawio.png)
 
 ## Les éléments importants
 
