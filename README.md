@@ -37,7 +37,7 @@ Projet conçu en équipe avec : Éric,Alexis,Nicholas
 
 ## Les ressources
 
-![Image d'ambiance](ambiance.jpg)
+![Image d'ambiance](alex-KEEpi-SOM_s-unsplash.jpg)
 
 - Son d'ambiance : [titre du son](lien)
 - Crédits :
